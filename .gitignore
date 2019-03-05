@@ -21,3 +21,13 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# gh-pages
+.vscode
+public
+src
+LICENSE
+package-lock.json
+package.json
+README.md
+yarn.lock
