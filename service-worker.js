@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/simple-number-eye-baller/precache-manifest.da4b8526af6515d9689cd96bf03d7f5c.js"
+  "/simple-number-eye-baller/precache-manifest.af965041a712417c1269818df3464a35.js"
 );
 
 workbox.clientsClaim();

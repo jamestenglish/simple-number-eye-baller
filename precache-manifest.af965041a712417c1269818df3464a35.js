@@ -4,23 +4,23 @@ self.__precacheManifest = [
     "url": "/simple-number-eye-baller/static/js/runtime~main.95f56e52.js"
   },
   {
-    "revision": "c76f8ebb3ef0d7679963",
-    "url": "/simple-number-eye-baller/static/js/main.c76f8ebb.chunk.js"
+    "revision": "a480ba1ba7543120163e",
+    "url": "/simple-number-eye-baller/static/js/main.a480ba1b.chunk.js"
   },
   {
-    "revision": "6fd0231800df314ee011",
-    "url": "/simple-number-eye-baller/static/js/2.6fd02318.chunk.js"
+    "revision": "b40400e2b6ea50195431",
+    "url": "/simple-number-eye-baller/static/js/2.b40400e2.chunk.js"
   },
   {
-    "revision": "c76f8ebb3ef0d7679963",
+    "revision": "a480ba1ba7543120163e",
     "url": "/simple-number-eye-baller/static/css/main.0c057ffb.chunk.css"
   },
   {
-    "revision": "6fd0231800df314ee011",
+    "revision": "b40400e2b6ea50195431",
     "url": "/simple-number-eye-baller/static/css/2.62196667.chunk.css"
   },
   {
-    "revision": "ad7d0f5a5c66f63b3662541a112b180f",
+    "revision": "5f8d7a0050db1386276e56375b82c4ab",
     "url": "/simple-number-eye-baller/index.html"
   }
 ];
